@@ -1,0 +1,3 @@
+DBHOST='localhost'
+DBUSER='admin'
+DBPASS='Tt0BCQ(hM!1/.6wG'
